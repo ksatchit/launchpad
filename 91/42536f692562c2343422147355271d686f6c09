@@ -1,0 +1,31 @@
+examples/README.md
+  7dba3fb3-1b7d-4d69-8038-751886353a8d 21-23
+  7dba3fb3-1b7d-4d69-8038-751886353a8d 20
+internal/api/handlers.go
+  7dba3fb3-1b7d-4d69-8038-751886353a8d 8,225,230-243,300-323
+  7dba3fb3-1b7d-4d69-8038-751886353a8d 324
+README.md
+  7dba3fb3-1b7d-4d69-8038-751886353a8d 93
+  7dba3fb3-1b7d-4d69-8038-751886353a8d 94
+examples/resilience/README.md
+  7dba3fb3-1b7d-4d69-8038-751886353a8d 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9142536f692562c2343422147355271d686f6c09",
+  "prompts": {
+    "94d95be267ec35fc": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "7dba3fb3-1b7d-4d69-8038-751886353a8d",
+        "model": "grok-4.6"
+      },
+      "human_author": "Karthik S <karthik.s@harness.io>",
+      "total_additions": 61,
+      "total_deletions": 6,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
